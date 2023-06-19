@@ -17,3 +17,5 @@ function sumTwoNumbers(num1, num2) {
 var addNum = sumTwoNumbers(50, 10);
 
 console.log(addNum);
+
+// just for git sake
